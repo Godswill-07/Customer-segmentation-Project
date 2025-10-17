@@ -34,6 +34,7 @@ Enabled **effective marketing** and enhanced resource utilization, improving the
 
 ### Visualization
 - Built an interactive dashboard using Streamlit to analyze customer segments
+![Customer Segmentation](customer_segmentation_pic2.png)
 
 ### Skills & Tools Used
 
