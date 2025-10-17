@@ -50,8 +50,9 @@ Enabled **effective marketing** and enhanced resource utilization, improving the
 - cluster 1 (Age 55+) - High recency - Most recent customers
 - cluster 0 (Age 58+) - most likely people to buy from the company's websites, mostlikely people to buy from the store
 - cluster 5 (62+) - lowest recency- dormant Customers
-- 
-![Customer Segmentation](images/customer%20segmentation%20pic.png)
+ 
+  
+![Customer Segmentation](images/customer_segmentation_pic.png)
 
 
 ### Delivered a Streamlit app for business users to:
