@@ -11,6 +11,12 @@ Used **K-Means Clustering** to classify customers into precise groups through de
 ### Outcome:
 Enabled **effective marketing** and enhanced resource utilization, improving the ability to personalize campaigns and increase ROI.
 
+customer segmentation can typically lead to:
+
+- 20–30% improved ROI on advertising efforts through targeting
+- 10–20% increase in customer interaction and retention
+- Reduction in marketing expense through prevention of irrelevant campaigns
+
 ## Business Problem
 
 - Marketing campaigns were mass and generic rather than customer behavior-centered. The goal was to identify key groups of customers in order to:
