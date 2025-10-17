@@ -52,7 +52,7 @@ Enabled **effective marketing** and enhanced resource utilization, improving the
 - cluster 5 (62+) - lowest recency- dormant Customers
  
   
-![Customer Segmentation](images/customer_segmentation_pic.png)
+![Customer Segmentation](customer_segmentation_pic.png)
 
 
 ### Delivered a Streamlit app for business users to:
