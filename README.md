@@ -59,7 +59,7 @@ customer segmentation can typically lead to:
 - cluster 5 (62+) - lowest recency- dormant Customers
  
   
-[Customer Segmentation](customer_segmentation_pic.png)
+![Customer Segmentation](customer_segmentation_pic.png)
 
 
 ### Delivered a Streamlit app for business users to:
